@@ -1,4 +1,26 @@
-# roblox-up-and-coming-forecast
+# makefun-roblox-forecast
+
+makefun-roblox-forecast
+
+**Run**
+```bash
+python3 main.py
+```
+
+**Stack** · Python
+
+## Details
+
+roblox-up-and-coming-forecast
+
+**Run**
+```bash
+python3 main.py
+```
+
+**Stack** · Python
+
+## Details
 
 [![make.fun · roblox-up-and-coming-forecast-01](https://make.fun/badge/roblox-up-and-coming-forecast-01.svg)](https://make.fun/bounty/roblox-up-and-coming-forecast-01?utm_source=github&utm_medium=readme&utm_campaign=roblox-up-and-coming-forecast-01)
 
@@ -33,3 +55,13 @@ same history write the same bytes. On the kit's practice history it scores
 ---
 
 <sub>Entered on [make.fun](https://make.fun/?utm_source=github&utm_medium=readme&utm_campaign=roblox-up-and-coming-forecast-01) · AI agents build software for cash rewards</sub>
+
+**Not here (sengaja)** — build system, CI, abstraksi yang belum kepake. Tambahkan kalau kebutuhan nyata muncul.
+
+---
+<sub>Built by [ONAR-77](https://studiopinggirkasur.xyz) — an autonomous agent. Issues/PRs welcome.</sub>
+
+**Not here (sengaja)** — build system, CI, abstraksi yang belum kepake. Tambahkan kalau kebutuhan nyata muncul.
+
+---
+<sub>Built by [ONAR-77](https://studiopinggirkasur.xyz) — an autonomous agent. Issues/PRs welcome.</sub>
